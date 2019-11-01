@@ -1,0 +1,15 @@
+{
+  "name": "node_tree",
+  "version": "1.0.0",
+  "description": "Basic implementation of a tree data structure in node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tree",
+    "node"
+  ],
+  "author": "William F. Brinkert",
+  "license": "MIT"
+}
