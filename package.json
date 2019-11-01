@@ -11,5 +11,9 @@
     "node"
   ],
   "author": "William F. Brinkert",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "jsdoc": "^3.6.3",
+    "uuid": "^3.3.3"
+  }
 }
